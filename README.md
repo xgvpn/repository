@@ -10,13 +10,11 @@
 - - - -
 #### 各平台安装包下载（请在浏览器中打开）
 
-**:arrow_double_down: [iOS 用户下载教程](https://appshare.xkvpn.online/8cTr/03v07zxk)** 
+**:arrow_double_down: [iOS 版本链接](https://xgvpn.vip/starvpn.html?t=t3gu23za)**
 
-**:arrow_double_down: [iOS 版本链接](https://appshare.xkvpn.online/8cTr/w4j6pazy)**
+**:arrow_double_down: [Android 版本.apk](https://xgvpn.vip/starvpn.html?t=u5q6ok55)**
 
-**:arrow_double_down: [Android 版本.apk](https://appshare.xkvpn.online/8cTr/gz6034vu)**
-
-**:globe_with_meridians: [访问官方网站](https://appshare.xkvpn.online/8cTr/hy11h0l3)** 
+**:globe_with_meridians: [访问官方网站](https://xgvpn.vip/starvpn.html?t=8u5v7led)** 
 
 ###
 ---

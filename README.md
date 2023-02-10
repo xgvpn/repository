@@ -10,7 +10,7 @@
 - - - -
 #### 各平台安装包下载（请在浏览器中打开）
 
-**:arrow_double_down: [iOS 版本链接](https://appshare.xgvpn.vip/xgvpn.html?t=t3gu23za)**
+**:arrow_double_down: [iOS 版本链接](https://apps.apple.com/cn/app/%E8%A5%BF%E7%93%9C%E5%8A%A0%E9%80%9F%E5%99%A8/id1663464419)**
 
 **:arrow_double_down: [Android 版本.apk](https://appshare.xgvpn.vip/xgvpn.html?t=u5q6ok55)**
 
